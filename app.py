@@ -2,7 +2,7 @@ import re
 # DESAFIO 1
 # Encontre a palavra simples
 # Olá! sou uma frase simples
-'''desafio1 = 'Olá! sou uma frase simples'
+desafio1 = 'Olá! sou uma frase simples'
 padrao = r'\bsimples\b'
 result = re.findall(padrao, desafio1)
 print(result)
@@ -10,7 +10,7 @@ print(result)
 #DESAFIO 2 
 # Encontre todas as ocorrência de 23(os números juntos) e exatamente com esses valores
 '''
-'''dev123com
+dev123com
 developer 123
 dev = 123
 dev = 1234
